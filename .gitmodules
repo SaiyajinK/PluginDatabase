@@ -73,3 +73,6 @@
 [submodule "plugins/gratitude"]
 	path = plugins/gratitude
 	url = https://github.com/BlythT/Gratitude-Millennium-Plugin
+[submodule "plugins/Easy-Restart-Reload-for-Steam"]
+	path = plugins/Easy-Restart-Reload-for-Steam
+	url = https://github.com/SaiyajinK/Easy-Restart-Reload-for-Steam
